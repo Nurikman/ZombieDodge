@@ -1,0 +1,11 @@
+Model Information:
+* title:	JBL Charge 3 speaker
+* source:	https://sketchfab.com/3d-models/jbl-charge-3-speaker-661f85fe3e4048f59785b2a75ffa52f8
+* author:	Aleksei Rozumnyi (https://sketchfab.com/Aleksei.Rozumnyi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JBL Charge 3 speaker" (https://sketchfab.com/3d-models/jbl-charge-3-speaker-661f85fe3e4048f59785b2a75ffa52f8) by Aleksei Rozumnyi (https://sketchfab.com/Aleksei.Rozumnyi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
